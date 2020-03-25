@@ -25,9 +25,3 @@ WHERE country like '%islands%';
 SELECT * FROM population_years
 WHERE country = 'Indonesia' AND year = 2000
 OR country = 'Indonesia' AND year = 2010;
-
-
-
-
-
-
